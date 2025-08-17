@@ -1,1 +1,1 @@
-These are dashboards I created to practice powerbi skills. "deliveroo_data_model" I created with data gathered with during a week working for deliveroo. "Maven_Market
+These are dashboards I created to practice powerbi skills. "deliveroo_data_model" I used data gathered during a week, working for Deliveroo. "Maven_Market_Report_COMPLETE" is the final project for the powerbi course taught by Maven Analytics.
